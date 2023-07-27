@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: poses_atlas
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: fd75e30216228b24ab73c5323a3e23e8, type: 2}
+  mSprites:
+  - name: frente
+    x: 0
+    y: 580
+    width: 213
+    height: 444
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 63
+    paddingBottom: 72
+  - name: perfil
+    x: 0
+    y: 6
+    width: 213
+    height: 573
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 6
+    paddingBottom: 0
+  - name: sentado
+    x: 428
+    y: 570
+    width: 213
+    height: 454
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 62
+    paddingBottom: 63
+  - name: todas
+    x: 214
+    y: 445
+    width: 213
+    height: 579
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

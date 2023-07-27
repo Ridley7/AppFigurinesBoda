@@ -1,0 +1,128 @@
+{
+	"lista_amigos": [{
+			"sprite_cabeza": "lozano",
+			"nombre_cabeza": "Lozano",
+			"tipo_amigo": "LOZANO"
+		},
+		{
+			"sprite_cabeza": "noelia",
+			"nombre_cabeza": "Noe",
+			"tipo_amigo": "NOELIA"
+		},
+		{
+			"sprite_cabeza": "mesado",
+			"nombre_cabeza": "Mesado",
+			"tipo_amigo": "MESADO"
+		},
+		{
+			"sprite_cabeza": "alba_f",
+			"nombre_cabeza": "Alba",
+			"tipo_amigo": "ALBAF"
+		},
+		{
+			"sprite_cabeza": "manolo",
+			"nombre_cabeza": "Manolo",
+			"tipo_amigo": "MANOLO"
+		},
+		{
+			"sprite_cabeza": "alba_e",
+			"nombre_cabeza": "Alba",
+			"tipo_amigo": "ALBAE"
+		},
+		{
+			"sprite_cabeza": "lexu",
+			"nombre_cabeza": "Lexu",
+			"tipo_amigo": "LEXU"
+		},
+		{
+			"sprite_cabeza": "luis",
+			"nombre_cabeza": "Luis",
+			"tipo_amigo": "LUIS"
+		},
+		{
+			"sprite_cabeza": "parras",
+			"nombre_cabeza": "Parras",
+			"tipo_amigo": "PARRAS"
+		},
+		{
+			"sprite_cabeza": "julian",
+			"nombre_cabeza": "Julian",
+			"tipo_amigo": "JULIAN"
+		},
+		{
+			"sprite_cabeza": "andrea",
+			"nombre_cabeza": "Andrea",
+			"tipo_amigo": "ANDREA"
+		}
+
+	],
+	"lista_figurines": [
+		{
+			"sprite_figurin": "figurin_III",
+			"label_figurin": "Figurin 1",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "figurin_IV",
+			"label_figurin": "Figurin 2",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "figurin_V",
+			"label_figurin": "Figurin 3",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "figurin_VI",
+			"label_figurin": "Figurin 4",
+			"tipo_figurin": "D",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "figurin_IV",
+			"label_figurin": "Figurin 5",
+			"tipo_figurin": "E",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "figurin_V",
+			"label_figurin": "Figurin 6",
+			"tipo_figurin": "F",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "figurin_III",
+			"label_figurin": "Figurin 7",
+			"tipo_figurin": "G",
+			"tipo_pose": "PERFIL"
+		}
+	],
+	"lista_poses": [
+		{
+			"sprite_pose" : "perfil",
+			"label_pose" : "Perfil",
+			"tipo_pose" : "PERFIL"
+		},
+
+		{
+			"sprite_pose" : "frente",
+			"label_pose" : "De frente",
+			"tipo_pose" : "FRENTE"
+		},
+
+		{
+			"sprite_pose" : "sentado",
+			"label_pose" : "Sentado",
+			"tipo_pose" : "SENTADO"
+		},
+
+		{
+			"sprite_pose" : "todas",
+			"label_pose" : "Todas",
+			"tipo_pose" : "TODAS"
+		}
+	]
+}
