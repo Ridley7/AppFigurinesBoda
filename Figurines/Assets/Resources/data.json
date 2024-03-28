@@ -58,6 +58,12 @@
 	],
 	"lista_figurines": [
 		{
+			"sprite_figurin": "perfil_figurin_01",
+			"label_figurin": "Figurin 1",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
 			"sprite_figurin": "figurin_III",
 			"label_figurin": "Figurin 1",
 			"tipo_figurin": "A",

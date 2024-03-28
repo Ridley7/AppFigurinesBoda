@@ -15,7 +15,7 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: cc2be9a310390874a9588d8ebdbc499d, type: 2}
   mSprites:
   - name: figurin_II
-    x: 893
+    x: 718
     y: 1123
     width: 400
     height: 925
@@ -53,22 +53,9 @@ MonoBehaviour:
     paddingRight: 121
     paddingTop: 0
     paddingBottom: 1
-  - name: figurin_prueba
-    x: 449
-    y: 1048
-    width: 443
-    height: 1000
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 178
-    paddingRight: 179
-    paddingTop: 0
-    paddingBottom: 0
   - name: figurin_V
-    x: 1141
-    y: 122
+    x: 1119
+    y: 1048
     width: 223
     height: 1000
     borderLeft: 0
@@ -80,7 +67,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: figurin_VI
-    x: 0
+    x: 269
     y: 1048
     width: 448
     height: 1000
@@ -90,6 +77,19 @@ MonoBehaviour:
     borderBottom: 0
     paddingLeft: 176
     paddingRight: 176
+    paddingTop: 0
+    paddingBottom: 0
+  - name: perfil_figurin_01
+    x: 0
+    y: 1048
+    width: 268
+    height: 1000
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 276
+    paddingRight: 256
     paddingTop: 0
     paddingBottom: 0
   mPixelSize: 1
