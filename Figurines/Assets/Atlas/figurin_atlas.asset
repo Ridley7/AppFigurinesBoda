@@ -14,47 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: cc2be9a310390874a9588d8ebdbc499d, type: 2}
   mSprites:
-  - name: figurin_IV
-    x: 0
-    y: 95
-    width: 558
-    height: 999
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 121
-    paddingRight: 121
-    paddingTop: 0
-    paddingBottom: 1
-  - name: figurin_V
-    x: 1062
-    y: 47
-    width: 223
-    height: 1000
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 288
-    paddingRight: 289
-    paddingTop: 0
-    paddingBottom: 0
-  - name: figurin_VI
-    x: 559
-    y: 1048
-    width: 448
-    height: 1000
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 176
-    paddingRight: 176
-    paddingTop: 0
-    paddingBottom: 0
   - name: frente_figurin_01
-    x: 0
+    x: 1100
     y: 1095
     width: 259
     height: 953
@@ -66,9 +27,22 @@ MonoBehaviour:
     paddingRight: 267
     paddingTop: 23
     paddingBottom: 24
+  - name: frente_figurin_03
+    x: 0
+    y: 1087
+    width: 277
+    height: 961
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 263
+    paddingRight: 260
+    paddingTop: 21
+    paddingBottom: 18
   - name: perfil_figurin_01
-    x: 1008
-    y: 1048
+    x: 831
+    y: 330
     width: 268
     height: 1000
     borderLeft: 0
@@ -79,9 +53,22 @@ MonoBehaviour:
     paddingRight: 256
     paddingTop: 0
     paddingBottom: 0
+  - name: perfil_figurin_03
+    x: 0
+    y: 113
+    width: 327
+    height: 973
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 230
+    paddingRight: 243
+    paddingTop: 11
+    paddingBottom: 16
   - name: sentado_figurin_01
-    x: 559
-    y: 348
+    x: 328
+    y: 631
     width: 502
     height: 699
     borderLeft: 0
@@ -92,5 +79,18 @@ MonoBehaviour:
     paddingRight: 118
     paddingTop: 150
     paddingBottom: 151
+  - name: sentado_figurin_03
+    x: 278
+    y: 1331
+    width: 613
+    height: 717
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 94
+    paddingRight: 93
+    paddingTop: 142
+    paddingBottom: 141
   mPixelSize: 1
   mReplacement: {fileID: 0}

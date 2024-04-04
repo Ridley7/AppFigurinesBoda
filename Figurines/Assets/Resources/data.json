@@ -76,33 +76,21 @@
 			"tipo_pose": "SENTADO"
 		},
 		{
-			"sprite_figurin": "figurin_IV",
-			"label_figurin": "Figurin 2",
+			"sprite_figurin": "perfil_figurin_03",
+			"label_figurin": "Figurin 3",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_03",
+			"label_figurin": "Figurin 3",
 			"tipo_figurin": "B",
 			"tipo_pose": "FRENTE"
 		},
 		{
-			"sprite_figurin": "figurin_V",
+			"sprite_figurin": "sentado_figurin_03",
 			"label_figurin": "Figurin 3",
 			"tipo_figurin": "C",
-			"tipo_pose": "SENTADO"
-		},
-		{
-			"sprite_figurin": "figurin_VI",
-			"label_figurin": "Figurin 4",
-			"tipo_figurin": "D",
-			"tipo_pose": "PERFIL"
-		},
-		{
-			"sprite_figurin": "figurin_IV",
-			"label_figurin": "Figurin 5",
-			"tipo_figurin": "E",
-			"tipo_pose": "FRENTE"
-		},
-		{
-			"sprite_figurin": "figurin_V",
-			"label_figurin": "Figurin 6",
-			"tipo_figurin": "F",
 			"tipo_pose": "SENTADO"
 		}
 	],
