@@ -64,10 +64,16 @@
 			"tipo_pose": "PERFIL"
 		},
 		{
-			"sprite_figurin": "figurin_III",
+			"sprite_figurin": "frente_figurin_01",
 			"label_figurin": "Figurin 1",
-			"tipo_figurin": "A",
-			"tipo_pose": "PERFIL"
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_01",
+			"label_figurin": "Figurin 1",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
 		},
 		{
 			"sprite_figurin": "figurin_IV",
@@ -98,12 +104,6 @@
 			"label_figurin": "Figurin 6",
 			"tipo_figurin": "F",
 			"tipo_pose": "SENTADO"
-		},
-		{
-			"sprite_figurin": "figurin_III",
-			"label_figurin": "Figurin 7",
-			"tipo_figurin": "G",
-			"tipo_pose": "PERFIL"
 		}
 	],
 	"lista_poses": [

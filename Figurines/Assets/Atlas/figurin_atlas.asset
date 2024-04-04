@@ -14,35 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: cc2be9a310390874a9588d8ebdbc499d, type: 2}
   mSprites:
-  - name: figurin_II
-    x: 718
-    y: 1123
-    width: 400
-    height: 925
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 200
-    paddingRight: 200
-    paddingTop: 37
-    paddingBottom: 38
-  - name: figurin_III
-    x: 559
-    y: 401
-    width: 581
-    height: 646
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 109
-    paddingRight: 110
-    paddingTop: 177
-    paddingBottom: 177
   - name: figurin_IV
     x: 0
-    y: 48
+    y: 95
     width: 558
     height: 999
     borderLeft: 0
@@ -54,8 +28,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 1
   - name: figurin_V
-    x: 1119
-    y: 1048
+    x: 1062
+    y: 47
     width: 223
     height: 1000
     borderLeft: 0
@@ -67,7 +41,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: figurin_VI
-    x: 269
+    x: 559
     y: 1048
     width: 448
     height: 1000
@@ -79,8 +53,21 @@ MonoBehaviour:
     paddingRight: 176
     paddingTop: 0
     paddingBottom: 0
-  - name: perfil_figurin_01
+  - name: frente_figurin_01
     x: 0
+    y: 1095
+    width: 259
+    height: 953
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 274
+    paddingRight: 267
+    paddingTop: 23
+    paddingBottom: 24
+  - name: perfil_figurin_01
+    x: 1008
     y: 1048
     width: 268
     height: 1000
@@ -92,5 +79,18 @@ MonoBehaviour:
     paddingRight: 256
     paddingTop: 0
     paddingBottom: 0
+  - name: sentado_figurin_01
+    x: 559
+    y: 348
+    width: 502
+    height: 699
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 88
+    paddingRight: 118
+    paddingTop: 150
+    paddingBottom: 151
   mPixelSize: 1
   mReplacement: {fileID: 0}
