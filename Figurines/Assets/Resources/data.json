@@ -76,6 +76,24 @@
 			"tipo_pose": "SENTADO"
 		},
 		{
+			"sprite_figurin": "perfil_figurin_02",
+			"label_figurin": "Figurin 2",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_02",
+			"label_figurin": "Figurin 2",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_02",
+			"label_figurin": "Figurin 2",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
 			"sprite_figurin": "perfil_figurin_03",
 			"label_figurin": "Figurin 3",
 			"tipo_figurin": "A",
