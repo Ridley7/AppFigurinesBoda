@@ -110,6 +110,132 @@
 			"label_figurin": "Figurin 3",
 			"tipo_figurin": "C",
 			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_04",
+			"label_figurin": "Figurin 4",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_04",
+			"label_figurin": "Figurin 4",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_04",
+			"label_figurin": "Figurin 4",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_05",
+			"label_figurin": "Figurin 5",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_05",
+			"label_figurin": "Figurin 5",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_05",
+			"label_figurin": "Figurin 5",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_06",
+			"label_figurin": "Figurin 6",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_06",
+			"label_figurin": "Figurin 6",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_06",
+			"label_figurin": "Figurin 6",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_07",
+			"label_figurin": "Figurin 7",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_07",
+			"label_figurin": "Figurin 7",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_07",
+			"label_figurin": "Figurin 7",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_08",
+			"label_figurin": "Figurin 8",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_08",
+			"label_figurin": "Figurin 8",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_08",
+			"label_figurin": "Figurin 8",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_09",
+			"label_figurin": "Figurin 9",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_09",
+			"label_figurin": "Figurin 9",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_09",
+			"label_figurin": "Figurin 9",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
+		},
+		{
+			"sprite_figurin": "perfil_figurin_10",
+			"label_figurin": "Figurin 3",
+			"tipo_figurin": "A",
+			"tipo_pose": "PERFIL"
+		},
+		{
+			"sprite_figurin": "frente_figurin_10",
+			"label_figurin": "Figurin 3",
+			"tipo_figurin": "B",
+			"tipo_pose": "FRENTE"
+		},
+		{
+			"sprite_figurin": "sentado_figurin_10",
+			"label_figurin": "Figurin 3",
+			"tipo_figurin": "C",
+			"tipo_pose": "SENTADO"
 		}
 	],
 	"lista_poses": [
