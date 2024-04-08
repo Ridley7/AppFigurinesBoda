@@ -221,19 +221,19 @@
 		},
 		{
 			"sprite_figurin": "perfil_figurin_10",
-			"label_figurin": "Figurin 3",
+			"label_figurin": "Figurin 10",
 			"tipo_figurin": "A",
 			"tipo_pose": "PERFIL"
 		},
 		{
 			"sprite_figurin": "frente_figurin_10",
-			"label_figurin": "Figurin 3",
+			"label_figurin": "Figurin 10",
 			"tipo_figurin": "B",
 			"tipo_pose": "FRENTE"
 		},
 		{
 			"sprite_figurin": "sentado_figurin_10",
-			"label_figurin": "Figurin 3",
+			"label_figurin": "Figurin 10",
 			"tipo_figurin": "C",
 			"tipo_pose": "SENTADO"
 		}

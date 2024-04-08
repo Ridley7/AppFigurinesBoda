@@ -15,8 +15,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: cc2be9a310390874a9588d8ebdbc499d, type: 2}
   mSprites:
   - name: frente_figurin_01
-    x: 1317
-    y: 3143
+    x: 606
+    y: 35
     width: 259
     height: 953
     borderLeft: 0
@@ -28,8 +28,8 @@ MonoBehaviour:
     paddingTop: 23
     paddingBottom: 24
   - name: frente_figurin_02
-    x: 0
-    y: 1203
+    x: 1054
+    y: 3138
     width: 506
     height: 958
     borderLeft: 0
@@ -41,8 +41,8 @@ MonoBehaviour:
     paddingTop: 21
     paddingBottom: 21
   - name: frente_figurin_03
-    x: 1063
-    y: 1704
+    x: 328
+    y: 27
     width: 277
     height: 961
     borderLeft: 0
@@ -54,7 +54,7 @@ MonoBehaviour:
     paddingTop: 21
     paddingBottom: 18
   - name: frente_figurin_04
-    x: 0
+    x: 1561
     y: 3147
     width: 296
     height: 949
@@ -66,9 +66,22 @@ MonoBehaviour:
     paddingRight: 252
     paddingTop: 12
     paddingBottom: 39
+  - name: frente_figurin_05
+    x: 0
+    y: 3139
+    width: 431
+    height: 957
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 183
+    paddingRight: 186
+    paddingTop: 22
+    paddingBottom: 21
   - name: perfil_figurin_01
-    x: 942
-    y: 675
+    x: 1059
+    y: 688
     width: 268
     height: 1000
     borderLeft: 0
@@ -80,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: perfil_figurin_02
-    x: 318
-    y: 2389
+    x: 441
+    y: 2400
     width: 495
     height: 976
     borderLeft: 0
@@ -93,8 +106,8 @@ MonoBehaviour:
     paddingTop: 12
     paddingBottom: 12
   - name: perfil_figurin_03
-    x: 614
-    y: 702
+    x: 0
+    y: 459
     width: 327
     height: 973
     borderLeft: 0
@@ -106,8 +119,8 @@ MonoBehaviour:
     paddingTop: 11
     paddingBottom: 16
   - name: perfil_figurin_04
-    x: 0
-    y: 2162
+    x: 1551
+    y: 1422
     width: 317
     height: 984
     borderLeft: 0
@@ -118,9 +131,22 @@ MonoBehaviour:
     paddingRight: 243
     paddingTop: 9
     paddingBottom: 7
+  - name: perfil_figurin_05
+    x: 0
+    y: 2146
+    width: 440
+    height: 992
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 195
+    paddingRight: 165
+    paddingTop: 4
+    paddingBottom: 4
   - name: sentado_figurin_01
-    x: 814
-    y: 2666
+    x: 556
+    y: 989
     width: 502
     height: 699
     borderLeft: 0
@@ -132,8 +158,8 @@ MonoBehaviour:
     paddingTop: 150
     paddingBottom: 151
   - name: sentado_figurin_02
-    x: 507
-    y: 1676
+    x: 0
+    y: 1433
     width: 555
     height: 712
     borderLeft: 0
@@ -145,8 +171,8 @@ MonoBehaviour:
     paddingTop: 143
     paddingBottom: 145
   - name: sentado_figurin_03
-    x: 0
-    y: 485
+    x: 937
+    y: 1689
     width: 613
     height: 717
     borderLeft: 0
@@ -158,8 +184,8 @@ MonoBehaviour:
     paddingTop: 142
     paddingBottom: 141
   - name: sentado_figurin_04
-    x: 297
-    y: 3366
+    x: 937
+    y: 2407
     width: 646
     height: 730
     borderLeft: 0
@@ -170,5 +196,18 @@ MonoBehaviour:
     paddingRight: 78
     paddingTop: 135
     paddingBottom: 135
+  - name: sentado_figurin_05
+    x: 432
+    y: 3377
+    width: 621
+    height: 719
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 87
+    paddingRight: 92
+    paddingTop: 139
+    paddingBottom: 142
   mPixelSize: 1
   mReplacement: {fileID: 0}
